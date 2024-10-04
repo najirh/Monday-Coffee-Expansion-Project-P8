@@ -27,29 +27,15 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 7. **Customer Segmentation by City**  
    How many unique customers are there in each city who have purchased coffee products?
 
-8. **Revenue per Coffee Consumer**  
-   What is the average revenue generated per coffee consumer in each city?
+8. **Average Sale vs Rent**  
+   Find each city and their average sale per customer and avg rent per customer
 
-9. **Rent Affordability Analysis**  
-   In which cities is the estimated rent less than 50% of the average revenue generated from coffee consumers?
+9. **Monthly Sales Growth**  
+   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
-10. **Monthly Sales Growth**  
-    What is the percentage growth in coffee sales for each month compared to the previous month?
-
-11. **Market Potential Analysis**  
-    Which cities have the highest market potential for new store openings based on coffee consumption and average revenue?
-
-12. **Customer Loyalty**  
-    How many customers have made multiple purchases of coffee products in the past year, and what is their average spend?
-
-13. **Coffee Consumer Behavior**  
-    What is the average number of products purchased per transaction by coffee consumers in each city?
-
-14. **Sales and Rent Comparison**  
-    How does the average monthly revenue from coffee sales compare to the estimated rent costs in each city?
-
-15. **Predictive Sales Modeling**  
-    Based on historical sales data, what is the projected revenue from coffee sales for new stores in the top 3 cities for the next year?
+10. **Market Potential Analysis**  
+    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+    
 
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
